@@ -1,0 +1,10 @@
+openai
+langchain
+langchain_experimental
+huggingface_hub
+chromadb
+tiktoken
+jupyter
+wikipedia
+numexpr
+google-search-results
