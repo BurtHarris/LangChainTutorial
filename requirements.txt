@@ -1,5 +1,5 @@
 openai
-langchain
+langchain==0.1.0
 langchain_experimental
 huggingface_hub
 chromadb
